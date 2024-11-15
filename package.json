@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/kefirchick/node_1_pack.git"
+    "url": "git+https://github.com/kefirchick/node_1_pack.git"
   },
   "author": "Ilya Kustov",
   "license": "ISC",
