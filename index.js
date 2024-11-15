@@ -1,6 +1,6 @@
-function calculate(input) {
-    console.log('Hello user! Current version: 1.0.0');
+console.log('Hello user! Current version: 1.0.1');
 
+function calculate(input) {
     if (typeof input != 'string') {
         throw new TypeError('Input should be a string');
     }
