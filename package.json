@@ -1,0 +1,19 @@
+{
+  "name": "node_1_pack",
+  "version": "1.0.0",
+  "description": "NodeJS course task#1 Reverse Polish Notation Calculator ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kefirchick/node_1_pack.git"
+  },
+  "author": "Ilya Kustov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kefirchick/node_1_pack/issues"
+  },
+  "homepage": "https://github.com/kefirchick/node_1_pack#readme"
+}
