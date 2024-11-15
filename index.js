@@ -1,4 +1,4 @@
-console.log('Hello user! Current version: 1.1.0');
+console.log('Hello user! Current version: 2.0.0');
 
 function calculate(input) {
     if (typeof input != 'string') {
