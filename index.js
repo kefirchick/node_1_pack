@@ -32,7 +32,7 @@ function isNumber(token) {
 }
 
 function isOperator(token) {
-    return '+-*/'.includes(token);
+    return '+-*'.includes(token);
 }
 
 function getOperation(token) {
